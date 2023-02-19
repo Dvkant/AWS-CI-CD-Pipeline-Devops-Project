@@ -15,4 +15,7 @@ phases:
 artifacts:
   files:
     - /var/www/html/index.html
+<<<<<<< HEAD:buildspec.yml
 
+=======
+>>>>>>> dev:buildspec.yml
