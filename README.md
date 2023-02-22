@@ -21,6 +21,8 @@ Steps To Perform
 - Create AWS Instances on EC2
 - Configuring IAM roles
 - Create a shell script to install & start codeploy-agent in ec2 server
-- Create a Pipeline 
 - Push the code into CodeCommit
+- Setup Code Build
+- Setup Code Deploy
+- Setup Code Pipeline 
 
